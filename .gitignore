@@ -4,4 +4,7 @@ script_texts.py
 __pychache__
 myenv/*
 myenv
+.env
 
+download_images.py
+sending_texts.py
