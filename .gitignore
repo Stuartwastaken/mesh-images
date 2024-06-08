@@ -5,6 +5,7 @@ __pychache__
 myenv/*
 myenv
 .env
+.DS_Store
 
 download_images.py
 sending_texts.py
